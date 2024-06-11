@@ -1,11 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
 
@@ -59,12 +51,14 @@ npm i reacr router dom
   https://www.npmjs.com/package/formik
   https://formik.org/
    Formik is a small library that helps you with the 3 most annoying parts:
+![Screenshot 2024-06-11 232602](https://github.com/dineshkumar-mb/Formik-crud/assets/166787277/5d9cb124-62d1-41b5-a45b-d64b10e2b89c)
 
+![Screenshot 2024-06-11 232645](https://github.com/dineshkumar-mb/Formik-crud/assets/166787277/f69cf069-b940-473d-8b02-7b384cf48982)
 Getting values in and out of form state
 Validation and error messages
 Handling form submission
 http://localhost:5174/
-![screenshot]("Screenshot 2024-06-11 232602.png")
+
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
