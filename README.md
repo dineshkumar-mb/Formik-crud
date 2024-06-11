@@ -21,13 +21,13 @@ npm create vite@latest
 npx degit user/project#main my-project
 cd my-project
 
-npm install
-npm run dev
-npm i yup
-npm i formik
-npm i bootstrap 
-npm i axios
-npm i reacr router dom
+//npm install
+//npm run dev
+//npm i yup
+//npm i formik
+//npm i bootstrap 
+//npm i axios
+//npm i reacr router dom
 "dependencies": {
     "axios": "^1.7.2",
     "bootstrap": "^5.3.3",
