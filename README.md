@@ -52,8 +52,10 @@ npm i reacr router dom
   https://formik.org/
    Formik is a small library that helps you with the 3 most annoying parts:
 ![Screenshot 2024-06-11 232602](https://github.com/dineshkumar-mb/Formik-crud/assets/166787277/5d9cb124-62d1-41b5-a45b-d64b10e2b89c)
+form validation shows error message !!!
 
 ![Screenshot 2024-06-11 232645](https://github.com/dineshkumar-mb/Formik-crud/assets/166787277/f69cf069-b940-473d-8b02-7b384cf48982)
+entered data can be edited /deleted
 Getting values in and out of form state
 Validation and error messages
 Handling form submission
